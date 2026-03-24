@@ -7,7 +7,7 @@ Nexus AI, web siteleri üzerinde otonom işlemler gerçekleştirebilen, modern a
 ## 📺 Uygulama Tanıtımı & Demo
 Uygulamanın çalışma mantığını ve arayüz detaylarını aşağıdaki video üzerinden izleyebilirsiniz:
 
-[![Nexus AI Tanıtım Videosu](https://img.shields.io/badge/YouTube-İzle-red?style=for-the-badge&logo=youtube)]((https://www.youtube.com/shorts/NBXD4nTviS8))
+[![Nexus AI Tanıtım Videosu]]((https://www.youtube.com/shorts/NBXD4nTviS8))
 
 ---
 
@@ -23,7 +23,7 @@ Uygulamanın çalışma mantığını ve arayüz detaylarını aşağıdaki vide
 ## 📱 APK İndir
 Uygulamayı doğrudan Android cihazınıza kurmak için aşağıdaki bağlantıyı kullanabilirsiniz:
 
-[![APK İndir](https://img.shields.io/badge/Android-APK_İndir-brightgreen?style=for-the-badge&logo=android)]((https://expo.dev/accounts/alpereneri/projects/Nexus-AI-Browser/builds/eb8178b2-512d-44d7-abc6-cf3bcc62cf81))
+[![APK İndir]]((https://expo.dev/accounts/alpereneri/projects/Nexus-AI-Browser/builds/eb8178b2-512d-44d7-abc6-cf3bcc62cf81))
 
 > **Not:** Uygulama henüz geliştirme aşamasındadır. Kurulum sırasında "Bilinmeyen Kaynaklar" izni vermeniz gerekebilir.
 
