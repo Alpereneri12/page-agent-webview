@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyWebViewApp",
-    "slug": "MyWebViewApp",
+    "name": "Nexus AI Browser",
+    "slug": "Nexus-AI-Browser",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,14 +19,14 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.alpereneri.NexusAIBrowser"
     },
     "web": {
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
       [
         "expo-splash-screen",
         {
@@ -41,8 +41,12 @@
       ]
     ],
     "experiments": {
-      "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "948dbc1b-4b56-4669-947d-9c2dd29d2ac5"
+      }
     }
   }
 }
