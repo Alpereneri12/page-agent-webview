@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+# 🚀 Nexus AI Browser - Mobile Agent Engine
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Nexus AI, web siteleri üzerinde otonom işlemler gerçekleştirebilen, modern arayüze sahip gelişmiş bir **Mobile WebView Agent** uygulamasıdır. Kullanıcıların belirlediği web sayfalarında akıllı asistan desteği sunarak deneyimi kişiselleştirir.
 
-## Get started
+---
 
-1. Install dependencies
+## 📺 Uygulama Tanıtımı & Demo
+Uygulamanın çalışma mantığını ve arayüz detaylarını aşağıdaki video üzerinden izleyebilirsiniz:
 
-   ```bash
-   npm install
-   ```
+[![Nexus AI Tanıtım Videosu](https://www.youtube.com/shorts/NBXD4nTviS8)]
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## ⚡ Temel Özellikler
+* **Modern Dark UI:** Glassmorphism etkileriyle donatılmış profesyonel karanlık tema.
+* **Smart WebView Injection:** Web sayfalarına dinamik olarak JS ajanları enjekte edebilme.
+* **Türkçe Karakter Desteği:** URI encoding ile sorunsuz komut iletimi.
+* **Safe Area Compatibility:** Tüm yeni nesil çentikli (notch) telefonlarla tam uyumlu arayüz.
+* **Performans Odaklı:** Hafifletilmiş WebView motoru ve optimize edilmiş önbellek yönetimi.
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📱 APK İndir
+Uygulamayı doğrudan Android cihazınıza kurmak için aşağıdaki bağlantıyı kullanabilirsiniz:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+[![APK İndir](https://expo.dev/accounts/alpereneri/projects/Nexus-AI-Browser/builds/eb8178b2-512d-44d7-abc6-cf3bcc62cf81)]
 
-## Get a fresh project
+> **Not:** Uygulama henüz geliştirme aşamasındadır. Kurulum sırasında "Bilinmeyen Kaynaklar" izni vermeniz gerekebilir.
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## 🛠️ Teknik Gereksinimler & Kurulum
+Proje **React Native** ve **Expo** kullanılarak geliştirilmiştir.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+1.  **Repoyu Clone'layın:**
+    ```bash
+    git clone [https://github.com/KULLANICI_ADIN/nexus-ai-browser.git](https://github.com/KULLANICI_ADIN/nexus-ai-browser.git)
+    ```
+2.  **Bağımlılıkları Yükleyin:**
+    ```bash
+    npm install
+    ```
+3.  **Uygulamayı Başlatın:**
+    ```bash
+    npx expo start
+    ```
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🧬 Kullanılan Teknolojiler
+* **Framework:** React Native (Expo)
+* **Navigation:** React Navigation
+* **UI Components:** React Native Safe Area Context
+* **Web Engine:** React Native WebView
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 👨‍💻 Geliştirici
+**Alperen** - *3. Sınıf Yazılım Mühendisliği Öğrencisi*
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
